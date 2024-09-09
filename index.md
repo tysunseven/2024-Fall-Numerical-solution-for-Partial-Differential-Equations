@@ -31,14 +31,17 @@
 - 常见的模型方程
   1.  对流方程（双曲型方程）
 $$u_t+a(x,t)u_x=0,\quad u_t+uu_x=0$$
+
   2.  热传导方程（抛物型方程、扩散方程）
+
 $$ u_t=c(x,t)u_{xx} $$
-  3.  对流扩散方程
+
+  1.  对流扩散方程
 $$ u_t+a(x,t)u_x=c(x,t)u_{xx} $$
-  4.  波动方程（双曲型方程）
+  1.  波动方程（双曲型方程）
 $$ u_{tt}=c^2u_{xx} $$
-  5.  Poisson方程
+  1.  Poisson方程
 $$ u_{xx}+u_{yy}=f(x,y) $$
-  6.  KdV方程
+  1.  KdV方程
 $$ u_x+uu_x+\delta u_{xxx}=c(x,t) $$
-  7.  Euler方程
+  1.  Euler方程
