@@ -1,1 +1,0 @@
-# 2024-Fall-Numerical-solution-for-Partial-Differential-Equations
